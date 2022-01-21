@@ -1,1 +1,7 @@
+STEP 1 : Numbers of lines = numbers of rows = numbers of times OUTER Loop will run
 
+STEP 2 : Identify for every ROW number
+                                      * How many COLUMNS are there?
+                                      * Type of elements in COLUMN
+      
+STEP 3 : WHAT DOU YOU NEED TO PRINT?      
